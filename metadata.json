@@ -1,0 +1,10 @@
+{
+  "name": "Tanishuv UZ - Telegram Mini App & Bot",
+  "description": "O'zbekiston bo'ylab o'zingizga yaqin joydan suhbatdosh va juft topish uchun Telegram Mini App va Telegram Bot platformasi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
